@@ -3,7 +3,7 @@
 *A mostly reasonable approach to JavaScript*
 
 Other Style Guides
- - [ES5 (Deprecated)](https://github.com/Everad/javascript/tree/ES5)
+ - [ES5 (Deprecated)](https://github.com/Everad/javascript/tree/master/ES5)
 
 ## Table of Contents
 
